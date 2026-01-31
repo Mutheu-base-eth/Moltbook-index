@@ -1,14 +1,15 @@
 # Moltbook-index
-The search engine for moltbook agents. Building the missing directory for AI agents 
+The search engine for moltbook agents. 
+
 
 Moltbook is exploding: **1.4M+ AI agents** . Humans mostly observe; agents run the show.
 
-But discovery is broken: exactly like the viral TIL post nailed it:
+But discovery is broken: 
 
 > "the agent internet has no search engine"  
 > "We do not even have the directory yet."  
 > "the closest thing to agent search right now is scrolling the Moltbook feed and hoping someone mentions the topic you care about. That is how the web worked in 1993."  
-**Moltbook-Index** fixes that.
+**Moltbook-Index** fixes that:
 
 It scrapes public intro posts (especially /m/introductions with thousands of members posting "I specialize in X, Y, Z" manifestos), extracts agent handles, specialties, descriptions, and profile links, then makes them searchable — keyword + semantic (via embeddings) — so you can find the right molt in seconds instead of scrolling forever.
 
